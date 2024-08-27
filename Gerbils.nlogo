@@ -1293,32 +1293,28 @@ TEXTBOX
 1
 
 @#$#@#$#@
-## WHAT IS IT?
+## WHAT IS IT ?
 
-This model simulates the expansion of the Nigerian gerbil over 3 decades, from 1982 to 2013. Thirty years of fieldwork revealed a range expansion of almost two hundred kilometres, from the 1980s in northern Senegal to the 2010s in Dakar's latitude. The  substrate (density of sand), vegetation (surface covered in herbaceous plants), rainfall and vegetation index (NDVI) are considered to be major factors explaining the expansion of this species. 
+This model simulates the expansion of the Nigerian gerbil over 3 decades, from 1982 to 2013. Thirty years of fieldwork revealed a range expansion of almost two hundred kilometres, from the 1980s in northern Senegal to the 2010s at Dakar's latitude. The  substrate (density of sand), vegetation (surface covered by herbaceous plants), rainfall and vegetation index (NDVI) were selected as major factors explaining the expansion of this species. 
 For each month from January 1982 to December 2013, the model shows in green the location of these preferential habitats and the movement of populations. Population status is displayed in three colours: breeding (red), sexual rest (yellow) and exploration (blue).
 
-## HOW IT WORKS
-Every year, some propagules leave burrows and search for a favourable place to settle. Preferential habitat are built using a combination of soil type, land-cover and NDVI. Once settled, a given population will begin either sexual rest or reproduction cycle.The latter will generate new propagule agents seeking favourable new habitats and will make emerge the species' expansion.
+## HOW DOES IT WORKS ?
+Every year, some propagules leave their natal area and search for a favourable place to settle. Preferential habitats are built using a combination of soil type, land-cover and NDVI. Once settled, a given population will experience either sexual rest or reproduction cycle, according to the period and the resources available. Reproduction will generate new propagule agents looking for new favourable habitats, and this repeatedly renewed process will bring out the species' expansion.
 
-## HOW TO USE IT
+## HOW TO USE IT ?
 The interface has three parts:
-
-	
-- the first concerns environmental data and allows you to choose what you want to display: rainfall, pedology, land cover or NDVI.
-- The second is the preferential habitat locations, which can be defined according to a single (e.g. pedology) or several criteria (e.g. pedology and land use). The most realistic preferential location is the one that takes into account the 3 environmental criteria pedology, land cover and NDVI (item ‘habitat-ndvi-landcover-pedo’).
+- The first part concerns environmental data and allows you to choose what you want to display: rainfall, pedology, land cover or NDVI.
+- The second shows the preferential habitat locations, which can be defined according to a single (e.g. pedology) or several criteria (e.g. pedology and land use). The most realistic preferential location is the one that takes into account the 3 environmental criteria pedology, land cover and NDVI (item ‘habitat-ndvi-landcover-pedo’).
 - The third part specifies the gerbil population parameters. 
-
-A proposed most plausible scenario, given current knowledge on the subject, is composed of: a survival rate of 0.75, a litter size of 3.4 and a % of propagules of 50% with an introduction to the north or north-north-east.
-
+A proposed most plausible scenario, given current knowledge on the subject, is composed of: a survival rate of 0.75, a litter size of 3.4 and a rate of propagules of 50% with a combined introduction into Senegal by the north and north-north-east.
 At the end of a simulation lasting 3 decades, simulation exhibits an expansion of the gerbil from its point of departure in four directions: south, east, west and north. 
-Using the ‘realistic’ parameterisation of preferential locations and the characteristics of the gerbils above, you can vary the monthly distance and assess its impact on the expansion (and on the southern expansion in particular). 
+Using the ‘realistic’ parameterisation of preferential locations and the characteristics of the gerbils mentioned above, you can vary the monthly distance and assess its impact on the expansion (and on the southward expansion in particular). 
 
 ## THINGS TO TRY
 Using the realistic parameters (litter-size=3.4, survival-rate=0.75, departure to the north, %-propagules=0.5, item habitat-ndvi-landcover-pedo? on ‘on’), modify the distance travelled per month and observe the southern expansion obtained at the end of the simulation.
 
 ## CREDITS AND REFERENCES
-Program Cerise  (in french): http://simmasto.org/infos/045/index.htm
+Program Cerise (in french): http://simmasto.org/infos/045/index.htm
 Article in prep. "Unravelling the rapid range expansion in Senegal of the Nigerian gerbil (Gerbillus nigeriae) using a multifactorial modelling approach".
 
 Enjoy :)
