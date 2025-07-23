@@ -807,7 +807,7 @@ INPUTBOX
 328
 70
 YEAR
-1981.0
+1986.0
 1
 0
 Number
@@ -1233,7 +1233,7 @@ INPUTBOX
 261
 70
 MONTH
-Initialisation
+December
 1
 0
 String
@@ -1277,7 +1277,7 @@ INPUTBOX
 404
 70
 month-num
-0.0
+12.0
 1
 0
 Number
@@ -1314,8 +1314,8 @@ Using the ‘realistic’ parameterisation of preferential locations and the cha
 Using the realistic parameters (litter-size=3.4, survival-rate=0.75, departure to the north, %-propagules=0.5, item habitat-ndvi-landcover-pedo? on ‘on’), vary the distance travelled per month and observe the southern expansion obtained at the end of the simulation.
 
 ## CREDITS AND REFERENCES
-Program Cerise : http://vminfotron-dev.mpl.ird.fr:8080/masto2_2/infos/045/index.htm
-article "Unravelling the rapid range expansion in Senegal of the Nigerian gerbil (Gerbillus nigeriae) using a multifactorial modelling approach" 
+Program Cerise : http://projetcerise-ird-frb.fr
+Article in prep. "Large movements of small gerbils: a modelling study of Gerbillus nigeriae fast range expansion in Senegal" Le Fur, J., Duraffour, F. & L. Granjon
 @#$#@#$#@
 default
 true
